@@ -1,5 +1,6 @@
 name = "cf-worker-ws-dev" # todo
-pages_build_output_dir = "./"
+pages_build_output_dir = "./dist"
+main = "./index.js"
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
